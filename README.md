@@ -9,7 +9,7 @@
    - Gestiona vehículos con datos como matrícula, marca, modelo y año, con opción de edición y eliminación.  
    - Asocia vehículos a clientes de forma flexible (una persona puede tener múltiples vehículos, pero un vehículo solo tiene un dueño).  
    - Interfaz moderna con botones personalizados y navegación sencilla para una experiencia de usuario optimizada.  
-   - Almacenamiento de datos persistente utilizando SQLite, con soporte para bases de datos internas y externas.
+   - Almacenamiento de datos persistente utilizando MYSQL lenguaje mariaDB.
 
 4. **Tecnologías**  
    - Lenguaje: Java (Swing para GUI)  
