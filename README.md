@@ -14,14 +14,15 @@
 4. **Tecnologías**  
    - Lenguaje: Java (Swing para GUI)  
    - Patrones: MVC, DAO, Service, DTO  
-   - Base de datos: SQLite (incluye una base de datos interna y soporta una externa para exportación o migración)  
+   - Base de datos: mariaDB en mySQL (incluye una base de datos dentro llamada bdd para ponerla en funcionamiento hay que añadirla
+   dentro del xampp  con el mismo nombre y activarlo como servidor)  
    - Interfaz: Swing con componentes personalizados  
    - Entornos compatibles: Funciona en IDEs como Eclipse, IntelliJ IDEA y NetBeans, con configuraciones adaptables.
 
 5. **Requisitos Previos**  
    - Java Development Kit (JDK) 8 o superior instalado.  
    - Un IDE compatible (Eclipse, IntelliJ IDEA, NetBeans, o similar).  
-   - Dependencias: Driver de SQLite y bibliotecas de Swing (incluidas en el repositorio).  
+   - Dependencias: Driver de mariaDB(mysql) y bibliotecas de Swing (incluidas en el repositorio).  
    - Git para clonar el repositorio.  
    - Sistema operativo: Compatible con Windows, macOS y Linux.
 
